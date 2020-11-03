@@ -1,24 +1,23 @@
+## Table of Contents
 ### Hi there 👋
-
-<!--
-**brenomesquita/brenomesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# README Boilerplate
-
-A template of README best practices to make your README simple to understand and easy to use. 
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+## About
 <h1>
    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hello my name is Xablau!
+  Hello my name is Breno Mesquita!
 </h1>
 
-<p><em>Software Developer Full Stack, at <a href="https://github.com/betrybe"> Trybe </a> <img
+<p><em>Software Developer Estudent Full Stack, at <a href="https://github.com/betrybe"> Trybe </a> <img
       src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
-      
+
+[![Breno's github stats](https://github-readme-stats.vercel.app/api?username=brenomesquita)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenomesquita&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Things I code with</h3>
 <ul>
-  <li>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  </li>
   <li>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   </li>
@@ -43,45 +42,10 @@ A template of README best practices to make your README simple to understand and
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   </li>
 </ul>
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
-
-## Installation
-
-Download to your project directory, add `README.md`, and commit:
-
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
-
-## Usage
-
-Replace the contents of `README.md` with your project's:
-
-- Name
-- Description
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
-- Licence
-
-Feel free to remove any sections that aren't applicable to your project.
-
-## Support
-
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
-
-## Contributing
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
-
+<!--
+**brenomesquita/brenomesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# README Boilerplate
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
