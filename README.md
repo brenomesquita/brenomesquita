@@ -1,13 +1,4 @@
-## Table of Contents
-### Hi there 👋
-- [About](#About)
-## About
-<h1>
-   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hello my name is Breno Mesquita!
-</h1>
-
-<p><em>Mid level Full Stack Software Developer. </em></p>
+<p><em>Full Stack Software Developer. </em></p>
 
 [![Breno's github stats](https://github-readme-stats.vercel.app/api?username=brenomesquita)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenomesquita&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
